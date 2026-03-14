@@ -17,3 +17,4 @@ PoolCost poolCosts(double poolRadius, double pathWidth,
                    double concreteCostPerSqM, double fenceCostPerM);
 
 #endif  // INCLUDE_TASKS_H_
+

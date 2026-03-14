@@ -35,3 +35,4 @@ PoolCost poolCosts(double poolRadius, double pathWidth,
 
     return result;
 }
+

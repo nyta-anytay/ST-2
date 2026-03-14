@@ -26,3 +26,4 @@ class Circle {
 };
 
 #endif  // INCLUDE_CIRCLE_H_
+

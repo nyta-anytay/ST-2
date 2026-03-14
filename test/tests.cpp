@@ -207,3 +207,4 @@ TEST(Pool, PriceScaling) {
     EXPECT_NEAR(pc2.pathCost,  pc1.pathCost  * 2.0, EPS_LOW);
     EXPECT_NEAR(pc2.fenceCost, pc1.fenceCost * 2.0, EPS_LOW);
 }
+
